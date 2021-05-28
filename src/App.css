@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  color: white;
+}
+body {
+  background-color: rgb(24, 23, 23);
+}
+.Nav {
+  position: static;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  margin: auto;
+}
